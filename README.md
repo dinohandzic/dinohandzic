@@ -1,28 +1,20 @@
 # Dino Handzic
 
-Software engineer focused on real-time distributed systems and infrastructure software.
+I'm a software engineer at a fintech startup in New York, where I build new things. Before that, I worked on software that helps operators manage national power grids.
 
-## What I Work On
+## Interested in
 
-I build software for critical infrastructure - real-time control systems, SCADA/EMS platforms, and operator training simulators. Most of my professional work involves C/C++ and Fortran in systems where reliability matters.
+- What a small team can take on now that AI agents write real code
+- How founders make hard calls without all the facts
+- Why AGI and superintelligence are the next industrial revolution
+- History and anthropology, especially how technology shifts culture
+- Autobiographies, and the few decisions and risks that end up shaping a life
 
-Lately I've been exploring **agentic AI** - specifically how structured skill systems can improve model performance. The idea that interests me: rather than relying purely on model scale, you can decompose complex tasks into well-defined skills that agents can invoke. This creates a form of "tool-augmented reasoning" where the agent's effectiveness comes from knowing *when* and *how* to use specialized capabilities, not just from raw parameter count.
+## Tools
 
-I'm curious about:
-- How skill/tool design affects agent reliability and task completion rates
-- Whether explicit skill decomposition reduces hallucination in multi-step tasks
-- The tradeoff between general-purpose prompting vs. specialized skill invocation
+These days: TypeScript, AWS and Kubernetes. Before that: C++, Python and SQL.
 
-## Technical Background
-
-**Systems Programming:** C, C++, Fortran, Python, Bash
-
-**Application Development:** Java, TypeScript, JavaScript, SQL
-
-**Infrastructure:** Linux, Docker, Git
-
-Experience with legacy system modernization, real-time data processing, and building software that runs 24/7 in production environments.
-
-## Links
+## Elsewhere
 
 - Website: [elvedin.dev](https://elvedin.dev)
+- Say hi: [elvedin.dev/contact](https://elvedin.dev/contact)
